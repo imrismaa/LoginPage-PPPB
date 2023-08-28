@@ -15,7 +15,8 @@
         android:textAlignment="center"
         android:textStyle="bold"
         android:textColor="#1E293B"
-        android:layout_marginTop="190dp"
+        android:layout_marginTop="185dp"
+        android:padding="30dp"
         android:textSize="40dp"/>
 
     <LinearLayout
@@ -37,6 +38,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
+            android:padding="15dp"
             android:hint="Masukkan username"
             android:textColorHint="#5B697A"
             android:textColor="@color/black"
@@ -62,6 +64,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
+            android:padding="15dp"
             android:hint="Masukkan password"
             android:textColorHint="#5B697A"
             android:textColor="@color/black"
