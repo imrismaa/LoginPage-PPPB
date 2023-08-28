@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
                 Toast.makeText(this@MainActivity, "Login Sukses", Toast.LENGTH_SHORT).show()
             }
             else {
-                Toast.makeText(this@MainActivity, "username atau assword salah", Toast.LENGTH_SHORT).show()
+                Toast.makeText(this@MainActivity, "username atau password salah", Toast.LENGTH_SHORT).show()
             }
         }
     }
